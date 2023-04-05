@@ -1,0 +1,7 @@
+Running: xsim.dir/sequential_detection_00011000_behav/xsimk.exe -simmode gui -wdb sequential_detection_00011000_behav.wdb -simrunnum 0 -socket 49828
+Design successfully loaded
+Design Loading Memory Usage: 6316 KB (Peak: 6316 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 6840 KB (Peak: 6840 KB)
+Simulation CPU Usage: 108 ms
